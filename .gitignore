@@ -1,0 +1,10 @@
+deps/xilium.cefglue/CefGlue.WindowsForms/bin/*
+deps/xilium.cefglue/CefGlue.WindowsForms/obj/*
+deps/xilium.cefglue/CefGlue/bin/*
+deps/xilium.cefglue/CefGlue/obj/*
+wrapper/windows/trackbox/bin/*
+wrapper/windows/trackbox/obj/*
+
+*.suo
+
+
